@@ -28,6 +28,7 @@
 - git branch -d (nome branch): elimina il branch
 - git checkout (nome branch): Cambia/sposta branch
 - git checkout -b (nome branch): Crea un nuovo ramo (e passa automaticamente
+- git branch -m (nuovo nome) : Cambiare nome a un branch
 
 - git merge (nome branch): Esegue il merge (unione) di un branch nel branch corrente.
 
