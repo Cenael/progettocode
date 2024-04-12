@@ -10,14 +10,8 @@ E' inoltre un ottimo strumento per lavorare in team, dato che è possibile per p
 
 **Sviluppo di funzionalità** : Creare dei rami (branches) separati così da mantenere il codice principale stabile
 
+
 **Gestione dei bug** : Può essere integrato con sistemi di tracciamento dei bug, consentendo di collegare le modifiche del codice direttamente ai problemi che risolvono.
 
-<<<<<<< HEAD
-**Deployment** : può essere utilizzato per automatizzare il processo di distribuzione del codice in ambienti di produzione o di test
-=======
-**Deployment** : può essere utilizzato per automatizzare il processo di distribuzione del codice in ambienti di produzione o di test
-<<<<<<< HEAD
 
-=======
->>>>>>> 813bb48d4066a8e34a27cf411efe6e4f33f1cbd3
->>>>>>> 1737c97b891aa872b2f43c903a7b997bb529ed71
+**Deployment** : può essere utilizzato per automatizzare il processo di distribuzione del codice in ambienti di produzione o di test
