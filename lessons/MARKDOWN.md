@@ -4,3 +4,13 @@
 È spesso utilizzato per scrivere documentazione, readme di progetti, note, post di blog e altro ancora. Markdown offre una sintassi semplice e pulita per aggiungere formattazione al testo, come intestazioni, elenchi, grassetto, corsivo, link e immagini.
 
 </p>
+
+# Di seguito qualche esempio
+
+- "#": Intestazione di livello 1
+- "##": Intestazione di livello 2
+- "###": Intestazione di livello 3
+- "**": Grassetto
+- "*" : Corsivo
+- "-": Elenco puntato
+- "1. 2. 3.": Elenco numerato
