@@ -1,0 +1,1 @@
+markdown per appunti e chat gpt per ricerca e documentazione sul progetto 
