@@ -13,7 +13,3 @@ E' inoltre un ottimo strumento per lavorare in team, dato che è possibile per p
 **Gestione dei bug** : Può essere integrato con sistemi di tracciamento dei bug, consentendo di collegare le modifiche del codice direttamente ai problemi che risolvono.
 
 **Deployment** : può essere utilizzato per automatizzare il processo di distribuzione del codice in ambienti di produzione o di test
-<<<<<<< HEAD
-=======
-
->>>>>>> 3360e5c5dcd67da433fd1dcfdc858fb33db673da
