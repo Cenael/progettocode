@@ -1,4 +1,4 @@
-<p align="center"> ## **GIT** 
+<p align="center"> <strong> GIT </strong>
 
 Git è un sistema di controllo distribuito, progettato per gestire progetti di sviluppo software di varie dimensioni e complessità. Ci aiuta a tenere traccia delle modifiche, così da poterle aggiustare in qualsiasi momento. 
 E' inoltre un ottimo strumento per lavorare in team, dato che è possibile per più persone contemporaneamente lavorare sullo stesso codice senza sovrascrivere il lavoro altrui.
