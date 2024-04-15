@@ -11,3 +11,7 @@ Git è un sistema di controllo distribuito, progettato per gestire progetti di s
 - **Gestione dei bug**: Può essere integrato con sistemi di tracciamento dei bug, consentendo di collegare le modifiche del codice direttamente ai problemi che risolvono.
 
 - **Deployment**: Può essere utilizzato per automatizzare il processo di distribuzione del codice in ambienti di produzione o di test.
+
+<p align="center"><strong>Come funziona Git?</strong></p>
+
+Git permette di tenere traccia delle modifiche permettendo di inserire un progetto in un *repository* attraverso dei comandi, chiamati _git sheet_.
