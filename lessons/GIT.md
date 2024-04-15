@@ -1,8 +1,8 @@
-<p align="center"><strong>Git</strong></p>
+## GIT.
 
 Git è un sistema di controllo distribuito, progettato per gestire progetti di sviluppo software di varie dimensioni e complessità. Ci aiuta a tenere traccia delle modifiche, così da poterle aggiustare in qualsiasi momento. È inoltre un ottimo strumento per lavorare in team, dato che è possibile per più persone contemporaneamente lavorare sullo stesso codice senza sovrascrivere il lavoro altrui.
 
-## Per cosa si può utilizzare Git?
+<p align="center"><strong>Per cosa si può utilizzare Git?</strong></p>
 
 - **Backup e ripristino**: È possibile fare backup del codice in un luogo sicuro, riducendo il rischio di perdita di dati.
 
