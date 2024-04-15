@@ -25,10 +25,13 @@
 
 - git branch: Elenco dei branch presenti
 - git branch (nome branch) : Crea un nuovo branch
-- git branch -d (nome branch): elimina il branch
 - git checkout (nome branch): Cambia/sposta branch
-- git checkout -b (nome branch): Crea un nuovo ramo (e passa automaticamente
+- git checkout -b (nome branch): Crea un nuovo ramo (e passa automaticamente)
 - git branch -m (nuovo nome) : Cambiare nome a un branch
+- git branch -d (nome branch) : Eliminare il branch in locale
+
+- git push origin --delete (nome branch) : Eliminare il branch in remoto
+- git branch -d (nome branch); git push origin --delete (nome branch) : eliminare i branch sia in locale che in remoto
 
 - git merge (nome branch): Esegue il merge (unione) di un branch nel branch corrente.
 
