@@ -1,5 +1,5 @@
-### DICTIONARY
-# Definizioni di termini nuovi importanti per migliorare il lessico di programmazione.
+# DICTIONARY
+### Definizioni di termini nuovi importanti per migliorare il lessico di programmazione.
 
 - **Repository**: E' un luogo dove poter conservare e gestire i file di un progetto software compresi il codice sorgente, la documentazione, le immagini e altri asset, proprio come un archivio digitale.
 Le Repository possono essere pubbliche o private.
