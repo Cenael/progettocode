@@ -8,3 +8,6 @@ Le Repository possono essere pubbliche o private.
 
 - **Merge**: E' un'operazione che combina le modifiche da due o più branch in uno solo. Questa permette di unire le modifiche di più sviluppatori in una singola versione del codice sorgente così da coordinare lo sviluppo collaborativo del software e garantire che le modifiche siano incorporato in modo coerente nel codice principale del progetto.
 
+- **Markdown**: E' un linguaggio di markup leggero con il quale è possibile formattare un testo utilizzando una sintassi semplice e intuitiva, aggiungere titoli, elenchi, citazioni, ecc.. .
+
+- 
