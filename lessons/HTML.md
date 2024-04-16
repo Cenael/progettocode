@@ -1,6 +1,18 @@
 <h2 align= "center"> <strong> HTML </h2> </strong>
 
-<p center> "HTML" sta per HyperText Markup Language, è il linguaggio di markup utilizzato per la creazione e la strutturazione di contenuti web. </p>
+<p center> "HTML" sta per HyperText Markup Language, è il linguaggio di markup utilizzato per la creazione e la strutturazione di contenuti web. 
+HTML è il fondamento di qualsiasi pagina web. Definisce la struttura di base del contenuto web, ed è supportato da tutti i principali browser.
+
+L'utilizzo corretto degli elementi semantici di HTML permette di migliorare l'accessibilità delle pagine web</p>
+
+### Origine e storia di HTML
+
+Le origini di HTML risalgono all'inizio degli anni '90. Sviluppato da tim Berners-Lee presso il CERN (Organizzazione Europea per la Ricerca Nucleare) come parte di u progetto per facilitare lo scambio di informazioni tra i ricercatori.
+
+Negli anni, HTML ha subito numerosi sviluppi e miglioramenti, con l'introduzione di nuove versioni e nuove funzionalità. 
+La versione più recente è HTML5, introdotta nel 2014. Quest'ultima ha portato numerosi miglioramenti tra cui nuovi elementi semantici per una migliore struttura del documento, supporto per audio e video.
+
+Oggi HTML rimane il linguaggio di marcatura fondamentale per la creazione di pagine web e continua a evolversi per soddisfare le esigenze del web moderno, con nuove specifiche e aggiornamenti regolari sviluppati dal World Wide Web Consortium (W3C).
 
 ### Nozioni principali.
 
