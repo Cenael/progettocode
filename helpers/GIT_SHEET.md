@@ -20,6 +20,7 @@
 
 - git status: Mostra lo stato del repository
 - git log: Cronologia dei commit
+- git push ___ -f / --force: forzare e sovrascrivere il branch remoto con il branch in locale
 
 **_Branch_**
 
